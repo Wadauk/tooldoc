@@ -1,7 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Wadauk/tooldoc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
  <!doctype html>
 <html><head><title>图解Circos快速入门（Windows）</title><meta charset="UTF-8"><link href="http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic|Roboto:400,700,700italic,400italic" type="text/css" rel="stylesheet"><style>/*
  * Copyright 2014 Quip
